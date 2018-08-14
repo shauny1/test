@@ -1,4 +1,5 @@
-# test
-For playing about with Git
+# Test Project
 
-Stuff
+Changes made on develop
+
+Test project to test git commands
